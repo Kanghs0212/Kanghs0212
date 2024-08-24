@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Hello%World!&theme=cobalt)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Hello%World!&color=gradient)
 <!--
 **Kanghs0212/Kanghs0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
