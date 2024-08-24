@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:43cbff,100:9708cc&text=Welcome%20to-nl-Kanghs0212's%20Github&fontColor=ffffff)
 
 <p align="center">
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:43cbff,100:9708cc&text=Welcome%20to-nl-Kanghs0212's%20Github&fontColor=ffffff)
   홍익대 소프트웨어융합 재학중인 Metato라 합니다.
+  
 </p>
-<pre> ```markdown 이 텍스트는 코드 블록 안에서 보여집니다. ``` </pre>
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <!--
 **Kanghs0212/Kanghs0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
