@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:43cbff,100:9708cc&text=Welcome!-nl-Kanghs0212's%20Github&fontColor=ffffff)
 
-<h2 align="center">홍익대 소프트웨어융합 재학중인 Metato라 합니다.</h2>
+<h2 align="center">홍익대 소프트웨어융합 재학중인 강현서라 합니다.</h2>
 
 
 <h3 align="center"> 🎈 Stacks 🎈 </h3>
