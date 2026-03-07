@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:43cbff,100:9708cc&text=Welcome!-nl-I'm%20Hyeonseo!&fontColor=ffffff)
 
-<h2 align="center">Hello World</h2>
+<h2 align="center">언제나 노력하는 개발자, 강현서입니다!</h2>
 
 
 <h3 align="center"> 🎈 Stacks 🎈 </h3>
