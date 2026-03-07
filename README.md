@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:43cbff,100:9708cc&text=Welcome!-nl-Kanghs0212's%20Github&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:43cbff,100:9708cc&text=Welcome!-nl-I'm%20Hyeonseo!&fontColor=ffffff)
 
 <h2 align="center">Hello World</h2>
 
